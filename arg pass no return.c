@@ -1,4 +1,4 @@
-/*arg pass no return value*/
+\*arg pass no return value*\
 #include <stdio.h>
 void number(int a) {
     printf("Double of %d is %d\n", a, 2 * a);
