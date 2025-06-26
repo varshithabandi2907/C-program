@@ -1,4 +1,4 @@
-/*no arg and no return value:*/
+\*no arg and no return value*\
 #include<stdio.h>
 void hi()
 {
