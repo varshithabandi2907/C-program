@@ -1,4 +1,4 @@
-/*HOSPITAL MENU( ENTER, BILL, EXIT)*/
+\*HOSPITAL MENU( ENTER, BILL, EXIT)*\
 #include <stdio.h>
 #include<math.h>
 int main()
